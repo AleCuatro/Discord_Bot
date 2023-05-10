@@ -2,7 +2,7 @@ import postDiscordsBots from '../../../api/discordsBots.js';
 import postTopGG from '../../../api/topGG.js';
 import { separator } from '../../functions/count.js';
 import { randomStringActivity } from '../../functions/randomStringReady.js';
-import { playerEvent } from '../../handler/player.js';
+
 
 export default async function readyHandler(client) {
   const usersCount = client.guilds.cache.reduce((a, b) => a + b.memberCount, 0);
@@ -23,5 +23,4 @@ export default async function readyHandler(client) {
 
   postDiscordsBots(guildCount);
   postTopGG(client);
-  playerEvent(client);
 }
