@@ -10,7 +10,6 @@
 
 
 ## Instalacion
-
 Instalar mi-proyecto con npm
 
 ```bash
@@ -18,7 +17,6 @@ Instalar mi-proyecto con npm
 ```
     
 ## Inicializar
-
 Escribe esto en consola.
 
 ```bash
