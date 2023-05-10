@@ -22,7 +22,7 @@ class BaseAmayo extends Discord.Client {
             wait(5000)
              console.log('El cliente esta en operacion.');
         } catch (error) {
-            console.log('El cliente está en operación.');
+            console.log(error);
         }
     }
 }
