@@ -1,9 +1,4 @@
 <div align="center">
-	<br />
-	<p>
-		<img src="https://i.imgur.com/TgmHank.png" alt="amayori.js" />
-	</p>
-	<br />
 	<p>
 		<a href="https://discord.gg/8cwXWMdSY9"><img src="https://img.shields.io/discord/951839520247136296?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
 		<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="npm version" /></a>
@@ -14,7 +9,7 @@
 
 
 
-## Installation
+## Instalacion
 
 Instalar mi-proyecto con npm
 
