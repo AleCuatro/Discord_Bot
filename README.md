@@ -33,6 +33,7 @@ Escribe esto en consola.
 ```
 
 ### Variables de Entorno (.env)
+
 ``` js
 clientID = "" //ClientID
 discordsBotsToken = "" //Token the discordbots.com
