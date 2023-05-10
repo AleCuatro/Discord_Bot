@@ -5,6 +5,10 @@
 		<a href="https://github.com/discordjs/discord.js/actions"><img src="https://github.com/discordjs/discord.js/actions/workflows/test.yml/badge.svg" alt="Tests status" /></a>
         <a href="https://discord.gg/amayo"><img src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=v1.0.2-beta&message=discordBot&color=red" alt="Tests status" /></a>
     </p>
+	<br>
+	<p>Base utilizada para el bot llamado Amayori</p>
+	<a href='https://top.gg/bot/991062751633883136'>https://top.gg/bot/991062751633883136</a>
+	</br>
 </div>
 
 
