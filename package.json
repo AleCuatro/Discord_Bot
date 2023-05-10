@@ -1,16 +1,17 @@
 {
-  "name": "enny",
-  "version": "1.0.0",
-  "description": "",
+  "name": "discord-bot",
+  "version": "1.0.2",
+  "description": "Discord bot para tu maxima facilidad",
   "type": "module",
   "main": "v9.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon v9.js"
+    "dev": "nodemon main.js",
+    "build": "main.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "! AniiNuu#2102",
+  "license": "MIT",
   "dependencies": {
     "@devraelfreeze/discordjs-pagination": "^2.7.4",
     "@discordjs/rest": "^1.7.0",
